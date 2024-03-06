@@ -93,7 +93,10 @@ Thus the C program to implement RSA encryption technique had been
 implemented successfully
 
 
-### IMPLEMENTATION OF DIFFIE HELLMAN KEY EXCHANGE ALGORITHM
+
+
+
+## IMPLEMENTATION OF DIFFIE HELLMAN KEY EXCHANGE ALGORITHM
 
 ## AIM:
 
@@ -170,6 +173,10 @@ return 0;
 
 Thus the Diffie-Hellman key exchange algorithm had been successfully
 implemented using C.
+
+
+
+
 
 ## IMPLEMENTATION OF DES ALGORITHM
 
