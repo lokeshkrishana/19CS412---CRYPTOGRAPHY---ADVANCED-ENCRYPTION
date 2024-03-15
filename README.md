@@ -167,7 +167,8 @@ return 0;
 ```
 ## OUTPUT:
 
-<img width="342" alt="image" src="https://github.com/AlluguriSrikrishnateja/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118343892/a3f5b0fa-ef81-4215-9521-2a16c87cef68">
+![Screenshot 2024-03-15 143037](https://github.com/lokeshkrishana/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119291430/0cb26aa9-b080-4412-a35b-0c2545e50331)
+
 
 
 ## RESULT: 
